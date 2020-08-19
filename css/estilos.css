@@ -2,7 +2,7 @@ body{
     text-align: center;
     font-family: arial;
     color: black;
-    margin: 1% 15%;
+    margin: 1% 5%;
     background-color: rgb(66, 196, 141) 189);
 }
 
@@ -29,15 +29,21 @@ main{
 }
 a{
     text-decoration: none;
-    color: orangered;
+    color: rgb(0, 0, 0);
     
 }
+
 li{
     display: inline;
     margin-right: 5%;
 }
 nav{
     display: inline;
+}
+#cabecera{
+    background-color: rgb(211, 211, 211);
+    border: solid 2px black;
+    border-radius: 6px;
 }
 
 
