@@ -1,5 +1,48 @@
 body{
     text-align: center;
     font-family: arial;
-    color: yellow;
+    color: black;
+    margin: 1% 15%;
+    background-color: rgb(66, 196, 141) 189);
 }
+
+h1{ 
+    color: orange;
+}
+main{
+    align-content: center;
+    font-weight: 3em;
+
+}
+.left{
+    display: inline-block;
+    margin-right: 2%;
+    width: 45%;
+    height: 600px;
+    image-rendering: auto;
+    image-resolution: 1;
+}
+.right{
+    display: inline-block;
+    width: 45%;
+    height: 800px;
+}
+a{
+    text-decoration: none;
+    color: orangered;
+    
+}
+li{
+    display: inline;
+    margin-right: 5%;
+}
+nav{
+    display: inline;
+}
+
+
+
+
+
+
+
