@@ -19,13 +19,24 @@ main{
     margin-right: 2%;
     width: 45%;
     height: 600px;
-    image-rendering: auto;
-    image-resolution: 1;
+    
+   
 }
 .right{
     display: inline-block;
     width: 45%;
     height: 800px;
+
+}
+h2{
+    align-content: initial;
+    color: green;
+}
+div p {
+    color: blue;
+    align-content: initial;
+    align-items: initial;
+
 }
 a{
     text-decoration: none;
